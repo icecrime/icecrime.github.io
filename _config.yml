@@ -1,0 +1,83 @@
+title:            Arnaud Porterie
+disqus_shortname:
+description:      Personal website and blog
+reading_time:     false
+logo:             images/logo.png
+
+# Your site's domain goes here (eg: //mmistakes.github.io, http://mademistakes.com, etc)
+# When testing locally leave blank or use http://localhost:4000
+# url: http://aronbordin.com/neo-hpstr-jekyll-theme
+
+menu:
+  - title: 'Home'
+    url: '/'
+  - title: 'Media'
+    url: '/media'
+  - title: 'About'
+    url: '/about'
+
+# Owner/author information
+owner:
+  name:           Arnaud Porterie
+  site:           http://icecrime.github.io
+  avatar:         images/avatar.jpg
+  bio:            "Docker Engine lead"
+  email:          icecrime+web@gmail.com
+
+  # Social networking links used in footer. Update and remove as you like.
+  twitter: icecrime
+  github: icecrime
+  stackexchange: icecrime
+  linkedin: aporterie
+  flickr: icecrime
+
+social:
+  - title: "twitter"
+    url: "https://twitter.com/icecrime"
+  - title: "github"
+    url: "https://github.com/icecrime"
+  - title: "linkedin"
+    url: "https://br.linkedin.com/in/aporterie"
+  - title: "stack-overflow"
+    url: "http://stackoverflow.com/users/451980/icecrime"
+  - title: "flickr"
+    url: "https://www.flickr.com/arnaudporterie"
+
+# Background image to be tiled on all pages
+background:
+
+# http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone:    America/Los_Angeles
+future:      true
+highlighter: pygments
+markdown:    kramdown
+gems:
+  - jekyll-gist
+  - jekyll-paginate
+  - jekyll-sitemap
+sass:
+  sass_dir: _sass
+  style: compressed
+
+# https://github.com/mojombo/jekyll/wiki/Permalinks
+permalink:   /:categories/:title/
+
+# Amount of post to show on home page
+paginate: 5
+
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  enable_coderay: true
+
+  coderay:
+    coderay_line_numbers: nil
+    coderay_line_numbers_start: 1
+    coderay_tab_width: 4
+    coderay_bold_every: 10
+    coderay_css: class
+
+include: [".htaccess"]
+exclude: ["lib", "config.rb", "Capfile", "config", "Gemfile", "Gemfile.lock", "README.md", "LICENSE", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules"]
