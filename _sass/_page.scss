@@ -147,7 +147,7 @@ header .entry-meta {
 			padding: 20px 30px;
 		}
 		@media #{$large} {
-			max-width: 75%;
+			max-width: 1000px;
 			margin: 50px auto 30px auto;
 			padding: 50px 80px;
 			> p:first-child {
@@ -345,7 +345,7 @@ ul.social-buttons li a:active {
 			margin-right: 20px;
 		}
 		@media #{$large} {
-			max-width: 800px;
+			max-width: 1000px;
 			margin-top: 50px;
 			margin-left: auto;
 			margin-right: auto;
@@ -463,6 +463,9 @@ ul.social-buttons li a:active {
 	min-height: 200px;
 	overflow: hidden;
 	background-color: $header-color;
+}
+#page .entry-header {
+    min-height: 50px;
 }
 #post-index .entry-header {
     min-height: 50px;

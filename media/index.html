@@ -1,0 +1,26 @@
+---
+layout: timeline
+title: "Media timeline"
+---
+
+{% for item in site.media_timeline reversed %}
+<div class="cd-timeline-block">
+    <div class="cd-timeline-img cd-{{ item.type }}">
+        <img src="img/cd-icon-{{ item.type }}.svg" alt="{{ item.type }}">
+    </div> <!-- cd-timeline-img -->
+
+    <div class="cd-timeline-content">
+        <h3>{{ item.event.name }} - {{ item.title }}</h3>
+        {% if item.video %}
+        <p>
+          <iframe width="560" height="315" src="{{ item.video }}" frameborder="0" allowfullscreen></iframe>
+        </p>
+        {% endif %}
+        {{ item.content }}
+        {% for link in item.links %}
+        <a href="{{ link[1] }}" class="cd-read-more">{{ link[0] }}</a>
+        {% endfor %}
+        <span class="cd-date">{{ item.date | date: "%Y-%m-%d" }}</span>
+    </div> <!-- cd-timeline-content -->
+</div> <!-- cd-timeline-block -->
+{% endfor %}

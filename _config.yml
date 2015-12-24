@@ -43,6 +43,9 @@ social:
   - title: "flickr"
     url: "https://www.flickr.com/arnaudporterie"
 
+collections:
+  - media_timeline
+
 # Background image to be tiled on all pages
 background:
 
