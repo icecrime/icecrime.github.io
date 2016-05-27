@@ -1,5 +1,6 @@
 ---
 type: location
+date: 2013-09-12
 title: The Truth about C++
 event:
     name: While 42

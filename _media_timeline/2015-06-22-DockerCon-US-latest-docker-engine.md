@@ -1,5 +1,6 @@
 ---
 type: talk
+date: 2015-06-22
 title: The latest in Docker Engine
 event:
     name: DockerCon

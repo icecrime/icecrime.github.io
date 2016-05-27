@@ -1,5 +1,6 @@
 ---
 type: location
+date: 2015-05-13
 title: Using Machine & Docker to develop Docker
 event:
     name: Meetup

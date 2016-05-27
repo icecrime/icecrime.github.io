@@ -1,5 +1,6 @@
 ---
 type: talk
+date: 2015-11-16
 title: The latest in Docker Engine
 event:
     name: DockerCon EU

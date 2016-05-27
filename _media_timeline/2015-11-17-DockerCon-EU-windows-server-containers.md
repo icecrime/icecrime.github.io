@@ -1,5 +1,6 @@
 ---
 type: talk
+date: 2015-11-17
 title: Windows Server Containers
 event:
     name: DockerCon EU
