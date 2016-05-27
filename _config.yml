@@ -21,7 +21,10 @@ owner:
   name:           Arnaud Porterie
   site:           http://icecrime.github.io
   avatar:         images/avatar.jpg
-  bio:            "Docker Engine lead"
+  bio:            "Arnaud Porterie is a core maintainer of the Docker open-source project, and leads
+                   the Engine team inside Docker. He contributes to defining the project roadmap,
+                   ensures that community member code and contributions adhere to Docker's
+                   standards, and keeps a close eye on the project's health metrics."
   email:          icecrime+web@gmail.com
 
   # Social networking links used in footer. Update and remove as you like.
