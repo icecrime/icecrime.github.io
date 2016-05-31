@@ -11,3 +11,5 @@ href="http://www.epitech.eu">Epitech</a>.
 I spent most of my carreer working as software engineer and engineering manager
 in banking, until I had the amazing opportunity to relocate in the Bay Area and
 work for <a href="https://docker.com">Docker</a>.
+
+Besides work, I'm trying hard to become a less-than-terrible photographer.
