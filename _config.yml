@@ -11,6 +11,9 @@ logo:             images/logo.png
 menu:
   - title: 'Home'
     url: '/'
+  - title: 'Categories'
+    url: '/categories'
+    type: 'categories'
   - title: 'Media'
     url: '/media'
   - title: 'About'
