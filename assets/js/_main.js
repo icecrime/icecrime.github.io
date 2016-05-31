@@ -78,9 +78,10 @@ $(document).ready(function(){
         "position": "bottom",
         "content": [
           "<a class='fa fa-search' href='/search'></a>",
-          "<a class='fa fa-envelope' href='#/'></a>",
-          "<a class='fa fa-twitter' href='#/'></a>",
-          "<a class='fa fa-facebook' href='#/'></a>"
+          "<a class='fa fa-twitter' href='https://twitter.com/icecrime'></a>",
+          "<a class='fa fa-github' href='https://github.com/icecrime'></a>",
+          "<a class='fa fa-flickr' href='https://www.flickr.com/arnaudporterie'></a>",
+          "<a class='fa fa-linkedin' href='https://br.linkedin.com/in/aporterie'></a>",
         ]
       }
     ]
