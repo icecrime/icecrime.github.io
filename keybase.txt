@@ -1,0 +1,52 @@
+https://keybase.io/icecrime
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://icecrime.net
+  * I am icecrime (https://keybase.io/icecrime) on keybase.
+  * I have a public key ASCt0Xr0Ie7AFwSivuztwhW9Uznacilm2ElyqPf06pE7Cgo
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "010112699806a43a50621f01519dd31e30650dc51606a7600e3615934a1d8892cc610a",
+            "host": "keybase.io",
+            "kid": "0120add17af421eec01704a2beecedc215bd5339da722966d84972a8f7f4ea913b0a0a",
+            "uid": "47f0f93c9c97c092c39e7f8bbb796919",
+            "username": "icecrime"
+        },
+        "service": {
+            "hostname": "icecrime.net",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.9"
+    },
+    "ctime": 1465147991,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1465147728,
+        "hash": "d37213814cd5705d29ed8958ab9b6232d21a36b89eb932a616a8ee0beb63794a44c2a9f760fd81ad650b02a5a22aebaee613b6145931f0f077c7f3bb46af7890",
+        "seqno": 478009
+    },
+    "prev": "91945d7057e378099b9deecfef8eb134cce9369fbe960a4e2f0273abc1115578",
+    "seqno": 14,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+g6Rib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgrdF69CHuwBcEor7s7cIVvVM52nIpZthJcqj39OqROwoKp3BheWxvYWTFAvR7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTAxMTI2OTk4MDZhNDNhNTA2MjFmMDE1MTlkZDMxZTMwNjUwZGM1MTYwNmE3NjAwZTM2MTU5MzRhMWQ4ODkyY2M2MTBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwYWRkMTdhZjQyMWVlYzAxNzA0YTJiZWVjZWRjMjE1YmQ1MzM5ZGE3MjI5NjZkODQ5NzJhOGY3ZjRlYTkxM2IwYTBhIiwidWlkIjoiNDdmMGY5M2M5Yzk3YzA5MmMzOWU3ZjhiYmI3OTY5MTkiLCJ1c2VybmFtZSI6ImljZWNyaW1lIn0sInNlcnZpY2UiOnsiaG9zdG5hbWUiOiJpY2VjcmltZS5uZXQiLCJwcm90b2NvbCI6Imh0dHBzOiJ9LCJ0eXBlIjoid2ViX3NlcnZpY2VfYmluZGluZyIsInZlcnNpb24iOjF9LCJjbGllbnQiOnsibmFtZSI6ImtleWJhc2UuaW8gZ28gY2xpZW50IiwidmVyc2lvbiI6IjEuMC45In0sImN0aW1lIjoxNDY1MTQ3OTkxLCJleHBpcmVfaW4iOjUwNDU3NjAwMCwibWVya2xlX3Jvb3QiOnsiY3RpbWUiOjE0NjUxNDc3MjgsImhhc2giOiJkMzcyMTM4MTRjZDU3MDVkMjllZDg5NThhYjliNjIzMmQyMWEzNmI4OWViOTMyYTYxNmE4ZWUwYmViNjM3OTRhNDRjMmE5Zjc2MGZkODFhZDY1MGIwMmE1YTIyYWViYWVlNjEzYjYxNDU5MzFmMGYwNzdjN2YzYmI0NmFmNzg5MCIsInNlcW5vIjo0NzgwMDl9LCJwcmV2IjoiOTE5NDVkNzA1N2UzNzgwOTliOWRlZWNmZWY4ZWIxMzRjY2U5MzY5ZmJlOTYwYTRlMmYwMjczYWJjMTExNTU3OCIsInNlcW5vIjoxNCwidGFnIjoic2lnbmF0dXJlIn2jc2lnxEDyNmxhQqmAPseB+kz3AZ/26e7mrHB+HdU5J4HUS3dyA2nzm+rLl9n6nBgpegEtaCpFfb3cGbul6s/sCVij3uIKqHNpZ190eXBlIKN0YWfNAgKndmVyc2lvbgE=
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/icecrime
+
