@@ -2,6 +2,7 @@ version: '2'
 
 services:
   site:
+    command: jekyll serve
     image: jekyll/jekyll:pages
     ports:
     - "4000:4000"
