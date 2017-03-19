@@ -7,7 +7,7 @@ google_analytics: UA-78642707-1
 
 # Your site's domain goes here (eg: //mmistakes.github.io, http://mademistakes.com, etc)
 # When testing locally leave blank or use http://localhost:4000
-# url: http://aronbordin.com/neo-hpstr-jekyll-theme
+url: https://icecrime.net
 
 menu:
   - title: 'Home'
@@ -23,7 +23,7 @@ menu:
 # Owner/author information
 owner:
   name:           Arnaud Porterie
-  site:           http://icecrime.github.io
+  site:           https://icecrime.net
   avatar:         images/avatar.jpg
   bio:            "Arnaud Porterie is a core maintainer of the Docker open-source project, and leads
                    the Engine team inside Docker. He contributes to defining the project roadmap,
