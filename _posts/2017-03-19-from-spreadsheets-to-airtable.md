@@ -64,7 +64,7 @@ From there you can persist the settings as separate [views](https://support.airt
 
 <figure class="center">
     <a href="/images/airtable/tasks_airtable_3.png"><img src="/images/airtable/tasks_airtable_3_crop.png" alt=""></a>
-    <figcaption><a href="/images/airtable/tasks_airtable_3.png" title="The Kaban view">The Kaban view</a>.</figcaption>
+    <figcaption><a href="/images/airtable/tasks_airtable_3.png" title="The Kanban view">The Kaban view</a>.</figcaption>
 </figure>
 
 ## Leveraging relations
