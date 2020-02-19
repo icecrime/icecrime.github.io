@@ -25,11 +25,10 @@ owner:
   name:           Arnaud Porterie
   site:           https://icecrime.net
   avatar:         images/avatar.jpg
-  bio:            "Arnaud Porterie is a core maintainer of the Docker open-source project, and leads
-                   the Engine team inside Docker. He contributes to defining the project roadmap,
-                   ensures that community member code and contributions adhere to Docker's
-                   standards, and keeps a close eye on the project's health metrics."
-  email:          icecrime+web@gmail.com
+  bio:            "Arnaud Porterie is currently Deputy CTO at Veepee, and was
+                  previously a core maintainer of the Docker open-source project
+                  and engineering leader for the Engine team inside Docker, Inc."
+  email:          arnaud.porterie+web@gmail.com
 
   # Social networking links used in footer. Update and remove as you like.
   twitter: icecrime
