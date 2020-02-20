@@ -60,7 +60,7 @@ timezone:    America/Los_Angeles
 future:      true
 highlighter: rouge
 markdown:    kramdown
-gems:
+plugins:
   - jekyll-gist
   - jekyll-paginate
   - jekyll-sitemap
