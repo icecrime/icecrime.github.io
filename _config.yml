@@ -31,7 +31,7 @@ owner:
   email:          arnaud.porterie+web@gmail.com
 
   # Social networking links used in footer. Update and remove as you like.
-  twitter: icecrime
+  twitter: arnaudporterie
   github: icecrime
   stackexchange: icecrime
   linkedin: aporterie
@@ -39,7 +39,7 @@ owner:
 
 social:
   - title: "twitter"
-    url: "https://twitter.com/icecrime"
+    url: "https://twitter.com/arnaudporterie"
   - title: "github"
     url: "https://github.com/icecrime"
   - title: "linkedin"
